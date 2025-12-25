@@ -127,7 +127,17 @@ Contributions are welcome! Please follow these steps:
 
 ## 📄 License
 
-This project is private and proprietary.
+**PROPRIETARY - ALL RIGHTS RESERVED**
+
+Copyright © 2025. All Rights Reserved.
+
+This software is proprietary and confidential. Unauthorized copying, distribution, modification, 
+or use of this software, via any medium, is strictly prohibited without explicit written permission 
+from the owner.
+
+See the [LICENSE](LICENSE) file for full license terms.
+
+⚠️ **Warning:** This code is protected by copyright law. Unauthorized use or distribution may result in legal action.
 
 ## 🙏 Acknowledgments
 
